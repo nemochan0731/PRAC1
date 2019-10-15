@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PRAC1</string>
+    <string name="press_me">Press me</string>
+    <string name="reset">Reset</string>
+    <string name="hello">Hello world</string>
+
+</resources>
